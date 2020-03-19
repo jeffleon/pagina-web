@@ -1,0 +1,138 @@
+nav div a
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    margin: 0px;
+    padding: 0px;
+  }
+.my-navbar {
+    border: 0;
+    border-radius: 0;
+    background-color:transparent !important;
+}
+.navbar {
+	margin:0 !important;
+    padding: 0px !important;
+    
+}
+.appWhatsapp{
+    position: fixed;
+    right: 26px;
+    bottom: 20px;
+    z-index: 1000;
+}
+.navbar .ml-auto .nav-item .nav-link{
+    margin-left: 30px;
+    padding-left: 30px;
+}
+#lista p{
+    font-family: 'Slabo 27px', serif;
+    font-size: 5px;
+}
+.fondo
+{
+    top: 0;
+    display: block;
+    position: relative;
+    z-index: 0;	
+    max-width: 100%;
+    max-height: 100%;
+    filter: brightness(40%);
+	-webkit-filter:  brightness(40%);
+    -moz-filter: brightness(40%); 
+    background-size: cover;
+}
+.sobrefondo
+{
+    display: block;
+    position: absolute;
+    bottom: 50%;
+    left: 30%;
+    color: white;
+    font-size: 3.5vw;
+    text-align: center;
+
+}
+li{
+    color: whitesmoke;
+}
+.letras
+{
+    display: block;
+    position: absolute;
+    bottom: 70%;
+    left: 33%;
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+}
+ul{
+    list-style: none;
+
+}
+.fb-ic{
+    padding-left: 30px;
+}
+.tw-ic{
+    padding-left: 30px;
+}
+.ins-ic{
+    padding-left: 30px;
+}
+
+
+.thumbnail, .thumbnail1, .thumbnail2 , .thumbnail3{
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background-image: url(coupe.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: 42px;
+    margin-top: 10px;
+}
+
+.thumbnail1 {
+    background-image: url(camioneta_4x4.png);
+}
+.thumbnail2 {
+    background-image: url(kiavan.png);
+}
+.thumbnail3 {
+    background-image: url(mercedes.png);
+}
+
+
+.row{
+    margin-top: 40px;
+    max-width: 100%;
+    padding-left: 40px;
+}
+
+.mini-contenedor{
+    margin: 0 auto;
+}
+.container{
+    height: 100%;
+}
+.caption h3{
+    margin-top: 10px;
+    text-align: center;
+}
+.caption p{
+    text-align: center;
+}
+.titulo
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+
+
