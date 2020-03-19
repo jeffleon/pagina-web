@@ -70,9 +70,29 @@ body {
     }
     .iconos
     {
-        margin-right: 20px;
+        margin-right: 10px;
 
     }
+    .contendor-2
+{
+    margin-left: 10px;
+    width: 80%;
+}
+.contenedor-3
+{
+    margin-left: 10px;
+    width: 80%;
+}
+.contenedor-4
+{
+    margin-left: 10px;
+    width: 80%;
+}
+.contenedor-5
+{
+    margin-left: 10px;
+    width: 80%;
+}
 }
 
 .iconos
