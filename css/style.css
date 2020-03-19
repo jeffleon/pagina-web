@@ -68,9 +68,14 @@ body {
     {
         display: none;
     }
-  
     
+.iconos
+{
+    margin-rigth: 60px;
+    padding-right: 10px;
 }
+}
+
 
 
 /*.contendor-2
