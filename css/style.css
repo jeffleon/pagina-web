@@ -73,26 +73,7 @@ body {
         margin-right: 10px;
 
     }
-    .contendor-2
-{
-    margin-left: 10px;
-    width: 80%;
-}
-.contenedor-3
-{
-    margin-left: 10px;
-    width: 80%;
-}
-.contenedor-4
-{
-    margin-left: 10px;
-    width: 80%;
-}
-.contenedor-5
-{
-    margin-left: 10px;
-    width: 80%;
-}
+    
 }
 
 .iconos
@@ -100,7 +81,7 @@ body {
     margin-left: 10px;
 
 }
-.contendor-2
+/*.contendor-2
 {
     margin-left: 10px;
     width: 250px;
@@ -119,7 +100,7 @@ body {
 {
     margin-left: 10px;
     width: 250 bpx;
-}
+}*/
 .sobrefondo
 {
     display: block;
