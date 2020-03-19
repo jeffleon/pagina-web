@@ -68,6 +68,34 @@ body {
     {
         display: none;
     }
+    .iconos
+    {
+        margin-right: 60px;
+
+    }
+}
+
+.iconos
+{
+    margin-left: 10px;
+
+}
+.contendor-2
+{
+    margin-left: 10px;
+    width: 265px;
+}
+.contenedor-3
+{
+    width: 250px;
+}
+.contenedor-4
+{
+    width: 270px;
+}
+.contenedor-5
+{
+    width: 235px;
 }
 .sobrefondo
 {
@@ -135,9 +163,9 @@ ul{
     max-width: 100%;
     padding-left: 40px;
 }
-
 .mini-contenedor{
     margin: 0 auto;
+    
 }
 .container{
     height: 100%;
