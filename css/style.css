@@ -70,9 +70,6 @@ body {
     .fondo-3
     {
         top: 0;
-        filter: brightness(40%);
-        -webkit-filter:  brightness(40%);
-        -moz-filter: brightness(40%); 
         display: flex;
         flex-wrap: wrap;
         position: relative;
