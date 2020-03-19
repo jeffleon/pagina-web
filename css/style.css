@@ -43,7 +43,10 @@ body {
     max-height: 100%;
     
 }
-
+.fondo-3
+{
+    display: none;
+}
 .fondo-2
 {
     top: 0;
@@ -64,9 +67,14 @@ body {
         display: none;
         
     }
-    .fondo
+    .fondo-3
     {
-        display: none;
+        top: 0;
+        display: block;
+        position: relative;
+        z-index: 0;	
+        max-width: 100%;
+        max-height: 100%;
     }
 }
 .sobrefondo
